@@ -5,11 +5,11 @@ Study Of Newton Backward Difference Method To Predict Unknown Value(s) For Any G
 ## Objectives
 The objective of this experiment is to use Newton backward difference method to find out the very precise values of the given data point, using MATLAB. 
 ## Theory
-The differences **_y1 – y0, y2 – y1, ……, yn – yn–1_** when denoted by **_dy1, dy2, ……, dyn_**, respectively, are called first backward difference. Thus the first backward differences are[1]: 
+The differences **_y1 – y0, y2 – y1, ……, yn – yn–1_** when denoted by **_dy1, dy2, ……, dyn_**, respectively, are called first backward difference. Thus the first backward differences are **_[1]_**: 
 
 ![1](https://user-images.githubusercontent.com/51051408/105453897-35666c80-5cab-11eb-908b-555e06a561db.jpg)
 
-NEWTON’S GREGORY BACKWARD INTERPOLATION FORMULA[1]:
+NEWTON’S GREGORY BACKWARD INTERPOLATION FORMULA **_[1]_**:
 
 ![2](https://user-images.githubusercontent.com/51051408/105454195-a9a11000-5cab-11eb-8a88-07c60493d115.jpg)
 ## Tool
@@ -90,7 +90,7 @@ ylabel('y')
 
 >Figure 14.2: Graph Of The Function
 ## Result(s)& Discussion
-The unknown values for x = 1975  is y = 185.7720 . From text book[1] for x=1975 is y=185.8=186(round)
+The unknown values for **x = 1975**  is **y = 185.7720** . From text book[1] for **x=1975 is y=185.8=186(round)**
 ## Conclusion
 We have found the approximate unknown value for 1975 which is same as text book[2]. Matlab read the exact result 185.7720.
 ## References
