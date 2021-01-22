@@ -92,7 +92,7 @@ ylabel('y')
 ## Result(s)& Discussion
 The unknown values for **x = 1975**  is **y = 185.7720** . From text book **_[2]_** for **x=1975 is y=185.8=186(round)**
 ## Conclusion
-We have found the approximate unknown value for 1975 which is same as text book **_[2]_**. Matlab read the exact result 185.7720.
+We have found the approximate unknown value for **1975** which is same as text book **_[2]_**. Matlab read the exact result **185.7720**.
 ## References
 [1] https://www.geeksforgeeks.org/newton-forward-backward-interpolation/
 
