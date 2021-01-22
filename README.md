@@ -1,19 +1,19 @@
 # Lab-report-1
 # Experiment No 14
 ## Name of the Experiment
->Study Of Newton Backward Difference Method To Predict Unknown Value(s) For Any Geographic Point Data.
+Study Of Newton Backward Difference Method To Predict Unknown Value(s) For Any Geographic Point Data.
 ## Objectives
 The objective of this experiment is to use Newton backward difference method to find out the very precise values of the given data point, using MATLAB. 
 ## Theory
-The differences y1 – y0, y2 – y1, ……, yn – yn–1 when denoted by dy1, dy2, ……, dyn, respectively, are called first backward difference. Thus the first backward differences are: 
+The differences **_y1 – y0, y2 – y1, ……, yn – yn–1_** when denoted by **_dy1, dy2, ……, dyn_**, respectively, are called first backward difference. Thus the first backward differences are[1]: 
 
 ![1](https://user-images.githubusercontent.com/51051408/105453897-35666c80-5cab-11eb-908b-555e06a561db.jpg)
 
-NEWTON’S GREGORY BACKWARD INTERPOLATION FORMULA:
+NEWTON’S GREGORY BACKWARD INTERPOLATION FORMULA[1]:
 
 ![2](https://user-images.githubusercontent.com/51051408/105454195-a9a11000-5cab-11eb-8a88-07c60493d115.jpg)
 ## Tool
-MATLAB Software
+>MATLAB Software
 ## MATLAB Code
 [With comments](http://www.github.com)
 - Given values
@@ -84,17 +84,19 @@ ylabel('y')
 
 ![4](https://user-images.githubusercontent.com/51051408/105455537-d9e9ae00-5cad-11eb-8b3c-fcd9adb04ece.jpg)
 
-Figure 14.1: Table of Newton Backward Difference
+>Figure 14.1: Table of Newton Backward Difference
 
 ![5](https://user-images.githubusercontent.com/51051408/105455602-f84fa980-5cad-11eb-8a98-30e0448b22d7.jpg)
 
-Figure 14.2: Graph Of The Function
+>Figure 14.2: Graph Of The Function
 ## Result(s)& Discussion
 The unknown values for x = 1975  is y = 185.7720 . From text book[1] for x=1975 is y=185.8=186(round)
 ## Conclusion
-We have found the approximate unknown value for 1975 which is same as text book[1]. Matlab read the exact result 185.7720.
+We have found the approximate unknown value for 1975 which is same as text book[2]. Matlab read the exact result 185.7720.
 ## References
-[1]C. Chapra and P. Canale Raymond , “Numerical Methods for Engineers”, 7th ed. McGraw-Hill Education, 2 Penn Plaza, New York, NY 10121, 2015
+[1] https://www.geeksforgeeks.org/newton-forward-backward-interpolation/
+[2] C. Chapra and P. Canale Raymond , “Numerical Methods for Engineers”, 7th ed. McGraw-Hill Education, 2 Penn Plaza, New York, NY 10121, 2015
+
 
 
 
