@@ -13,7 +13,7 @@ NEWTON’S GREGORY BACKWARD INTERPOLATION FORMULA[1]:
 
 ![2](https://user-images.githubusercontent.com/51051408/105454195-a9a11000-5cab-11eb-8a88-07c60493d115.jpg)
 ## Tool
->MATLAB Software
+>MATLAB Software ver. 16.01
 ## MATLAB Code
 [With comments](http://www.github.com)
 - Given values
