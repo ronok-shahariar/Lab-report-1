@@ -1,4 +1,5 @@
 # Lab-report-1
+This is a sample report of my numerical lab report. I thought it will be much better idea to use it to make readme.md file.
 # Experiment No 14
 ## Name of the Experiment
 Study Of Newton Backward Difference Method To Predict Unknown Value(s) For Any Geographic Point Data.
@@ -99,12 +100,6 @@ ylabel('y')
 | 1961 | 120 | 36  | 10  | 0   | -1  | 0   | 0   |
 | 1971 | 165 | 45  | 9   | -1  | -1  | 0   | 0   |
 | 1981 | 220 | 55  | 10  | 1   | 2   | 3   | 3   |
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 ## Result(s)& Discussion
 The unknown values for **x = 1975**  is **y = 185.7720** . From text book **_[2]_** for **x=1975 is y=185.8=186(round)**
