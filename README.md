@@ -100,6 +100,12 @@ ylabel('y')
 | 1971 | 165 | 45 | 9 | -1 | -1 | 0 | 0 |
 | 1981 | 220 | 55 | 10 | 1 | 2 | 3 | 3 |
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ## Result(s)& Discussion
 The unknown values for **x = 1975**  is **y = 185.7720** . From text book **_[2]_** for **x=1975 is y=185.8=186(round)**
 ## Conclusion
