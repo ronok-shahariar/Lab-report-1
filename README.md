@@ -1,5 +1,5 @@
 # Lab-report-1
-This is a sample report of my numerical lab report. I thought it will be much better idea to use it to make readme.md file.
+This is a sample report of my numerical lab report. I thought it will be a much better idea to use it as readme.md file.
 # Experiment No 14
 ## Name of the Experiment
 Study Of Newton Backward Difference Method To Predict Unknown Value(s) For Any Geographic Point Data.
