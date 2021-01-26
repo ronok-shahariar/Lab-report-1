@@ -89,6 +89,17 @@ ylabel('y')
 ![5](https://user-images.githubusercontent.com/51051408/105455602-f84fa980-5cad-11eb-8a98-30e0448b22d7.jpg)
 
 >Figure 14.2: Graph Of The Function
+## Output Table
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1921 | 35 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1931 | 42 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 1941 | 58 | 16 | 9 | 0 | 0 | 0 | 0 |
+| 1951 | 84 | 26 | 10 | 1 | 0 | 0 | 0 |
+| 1961 | 120 | 36 | 10 | 0 | -1 | 0 | 0 |
+| 1971 | 165 | 45 | 9 | -1 | -1 | 0 | 0 |
+| 1981 | 220 | 55 | 10 | 1 | 2 | 3 | 3 |
+
 ## Result(s)& Discussion
 The unknown values for **x = 1975**  is **y = 185.7720** . From text book **_[2]_** for **x=1975 is y=185.8=186(round)**
 ## Conclusion
